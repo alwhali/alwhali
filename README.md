@@ -75,7 +75,5 @@ I have a strong foundation in programming and continuously work on improving my 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAlwhali&show_icons=true&theme=tokyonight)
 
